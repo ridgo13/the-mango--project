@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    background-color: rgba(197, 0, 0, 0.825);
+    color: white;
+}
+
+header{
+    background-color: purple;
+    justify-content: space-between;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 80px;
+}
+
+h1{
+    padding-left: 150px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu-item{
+    margin: 0 15px;
+}
+
+.menu{
+    display: flex;
+    padding: 5px 30px;
+    text-decoration: none;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 0;
+    justify-content: space-between;
+    display: flex;
+    font-family: verdana;
+}
+
+#hero{
+    font-size: 40px;
+    font-family: serif;
+    margin-left: 60px;
+    border-left: 2px solid black;
+    padding-left: 30px;
+    margin-bottom: 300px;
+
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Roboto condensed', sans-serif;
+}
+
+.face {
+    display: flex;
+    width: 50px;
+    border-radius: 60%;
+    padding-left: 500px;
+    padding-top: 100px;
+}
+
+.rid{
+    background-color: wheat;
+    text-align: center;
+}
+
+.raeo{
+    border-radius: 50%;
+    width: 30px;
+    margin-left: 135px;
+    background-color: wheat;
+    text-align: center;
+    margin-left: 420px;
+}
+
+span{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+footer{
+    background-color: wheat;
+}
+
