@@ -1,11 +1,11 @@
 body{
     margin: 0;
-    background-color: rgba(197, 0, 0, 0.825);
+    background-color: rgba(114, 0, 0, 0.597);
     color: white;
 }
 
 header{
-    background-color: purple;
+    background-color: rgba(128, 0, 128, 0.631);
     justify-content: space-between;
     color: white;
     display: flex;
@@ -57,18 +57,21 @@ p{
     font-family: 'Roboto condensed', sans-serif;
 }
 
-.face {
+.bot {
     display: flex;
-    width: 50px;
-    border-radius: 60%;
+    width: 30px;
+    border-radius: 50%;
     padding-left: 500px;
     padding-top: 100px;
+    height: 25px;
 }
 
 .rid{
     background-color: wheat;
     text-align: center;
 }
+
+
 
 .raeo{
     border-radius: 50%;
@@ -88,4 +91,5 @@ span{
 footer{
     background-color: wheat;
 }
+
 

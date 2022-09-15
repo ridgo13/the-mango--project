@@ -1,12 +1,49 @@
+header{
+    background-color: purple;
+    justify-content: space-between;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 80px;
+    
+}
+
 body{
-    margin: o;
-    background-color: blue;
+    margin: 0;
+    background-color: rgba(4, 4, 84, 0.653);
+}
+
+.menu-item{
+    margin: 0 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 0;
+    justify-content: space-between;
+    display: flex;
+    font-family: verdana;
+}
+
+
+.menu{
+    display: flex;
+    padding: 5px 30px;
+    text-decoration: none;
+    justify-content: space-between;
+    list-style: none;
 }
 
 h1{
     font-size: 60px;
+    font-family: serif;
+    margin-left: 150px;
 }
 
 p{
-    font-size: 22px;
+    font-size: 21px;
+    margin-left: 150px;
 }
