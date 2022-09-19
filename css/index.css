@@ -2,6 +2,7 @@ body{
     margin: 0;
     background-color: rgba(114, 0, 0, 0.597);
     color: white;
+    background: linear-gradient(45deg, rgba(31, 9, 112, .9) 25%, rgba(1, 173, 161, 0.698)), url(../images/audi\ interior.jpg  );
 }
 
 header{
