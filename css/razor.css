@@ -44,6 +44,11 @@ a{
     margin-top: 100px;
 }
 
+img{
+    height: 50%;
+    width: 50%;
+}
+
 h1 {
     color: #ffff;
     font-size: 50px;
@@ -62,28 +67,30 @@ h2{
     font-family: sans-serif;
 }
 
-.delta {
-    border-bottom: 3px solid limegreen;
-    padding-bottom: 20px;
-    border-radius: 2px;
+.hero-underline {
+    display: inline-block;
+    height: 3px;
+    width: 30px;
+    margin-bottom: 10px;
+    background-color: limegreen;
 }
 
-.gold{
-    background-color: #ffff;
-    padding: 10px 13px;
-    border-radius: 2px;
-    font-size: 20px;
-    color: grey;
-    margin-left: 20px;
-}
 
-.ruby {
-    border: 2px solid darkblue;
+.header-link {
     padding: 10px 13px;
-    border-radius: 3px;
-    margin-left: 20px;
     font-size: 15px;
+    margin-left: 20px;    
+    border-radius: 4px;
+}
+.login {
+    border: 2px solid darkblue;
     color: white;
+}
+
+.signup{
+    background-color: #ffff;
+    border: 2px solid #fff;
+    color: darkblue;
 }
 
 .new {
