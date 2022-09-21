@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(4, 2, 30);
+    background-color: #02042b;
 }
 
 .header {
@@ -39,6 +39,7 @@ a{
     color: white;
     font-size: 40px;
     list-style: none;
+    display: flex;
     padding: 0 18px;
     margin-left: 100px;
     margin-top: 100px;
