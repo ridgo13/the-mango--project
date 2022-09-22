@@ -101,3 +101,36 @@ h2{
     background-color: blue;
     color: white;
 }
+
+.footer {
+    height: 200px;
+    background-color: wheat;
+}
+
+.raeo{
+    border-radius: 50%;
+    width: 40px;
+    height: 25px;
+    margin-left: 135px;
+    background-color: wheat;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.bi-instagram {
+    color: crimson;
+}
+
+.bi-snapchat {
+    color: yellow;
+}
+
+.bi-youtube{
+    color: crimson;
+}
+
+.bi-facebook {
+    color: dodgerblue;
+}
+

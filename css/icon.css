@@ -3,6 +3,17 @@ i {
     margin: 0px 0px 0px 24px;
 }
 
+body {
+    margin: 0;
+    background-color: rgb(70, 40, 40);
+}
+
+.head {
+    display: flex;
+    height: 200px;
+    background-color: wheat;
+}
+
 .bi-instagram {
     color: crimson;
 }
@@ -21,4 +32,24 @@ i {
 
 .bi-twitter {
     color: dodgerblue;
+}
+
+.bot {
+    height: 200px;
+}
+
+.bi-arrow-right{
+    color: red;
+}
+
+.bi-spotify {
+    color: green;
+}
+
+.bi-bluetooth {
+    color: dodgerblue;
+}
+
+.bi-speaker {
+    color: #fff;
 }
