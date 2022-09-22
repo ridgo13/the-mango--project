@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background: linear-gradient(180deg, #941c9b, #a11d5f) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.hero {
+    border: 2px solid white;
+    background-color: white;
+    margin: 500px;
+    padding: 40px;
+}
+
+h1 {
+    font: 33px;
+    font-family: arial;
+}
+
+.login {
+    height: 35px;
+    width: 120px;
+    background: linear-gradient(180deg, #941c9b, #a11d5f) ;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #ffff;
+}
+
+.signup {
+    margin-left: -7px;
+    background-color: #ffff;
+    border-radius: 6px;
+    height: 35px;
+    width: 120px;
+    font-size: 16px;
+}
+
+.forgot-password {
+    text-decoration: none;
+    color: rgb(126, 46, 59);
+    font-family: verdana;
+    font-size: 13px;
+}
+
+.final-login {
+    height: 35px;
+    width: 240px;
+    background: linear-gradient(180deg, #941c9b, #a11d5f) ;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #ffff;
+}
+
+.signup-now {
+    text-decoration: none;
+    color: rgb(126, 46, 59);
+    font-size: 15px;
+    font-family: verdana;
+}

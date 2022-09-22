@@ -58,6 +58,33 @@ p{
     font-family: 'Roboto condensed', sans-serif;
 }
 
+.dot {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 14px 22px;
+    justify-content: space-between;
+    font-family: verdana;
+    width: 120px;
+}
+
+.about {
+    background-color: blue;
+    height: 45px;
+    width: 150px;
+    justify-content: center;
+    border-radius: 6px;
+}
+
+.contact {
+    height: 45px;
+    width: 150px;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin: 2px;
+    border-radius: 6px;
+}
+
 .bot {
     display: flex;
     width: 30px;
